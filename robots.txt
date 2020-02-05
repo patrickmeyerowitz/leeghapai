@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahbahthaep.colethecoder.com/sitemap.xml
